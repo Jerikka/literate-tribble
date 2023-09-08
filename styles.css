@@ -93,9 +93,9 @@ label {
 }
 
 iframe {
-    width: 100%;
+    width: 75%;
     height: 450px;
-    margin: 30px;
+    margin: 50px;
 }
 
 span {
@@ -114,4 +114,15 @@ span {
 .icon {
     width: 40px;
     height: 40px;
+}
+
+.product {
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #2184e7;
+    border-radius: 5px;
+    width: 350px;
+    height: 200px;
 }
